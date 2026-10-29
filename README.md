@@ -12,7 +12,13 @@ Construyo software para negocios reales: me meto en la operación hasta entender
 
 ## Proyectos personales
 
-**[delivery_game](https://github.com/federicodanielabram/delivery_game)** — Fuera del trabajo exploro motores de juego. Acción 2D cyberpunk en Godot 4, con combate, tráfico procedural y persecución de un dron. En desarrollo activo, no terminado.
+Fuera del trabajo exploro motores de juego. Tres proyectos en distintas etapas, ninguno terminado:
+
+**[delivery_game](https://github.com/federicodanielabram/delivery_game)** — Acción 2D cyberpunk en Godot 4, con combate, tráfico procedural y persecución de un dron.
+
+**[MoonCowboy](https://github.com/federicodanielabram/MoonCowboy)** — Tercera persona en Unreal Engine 5, travesía en moto entre colonias lunares.
+
+**[naciones](https://github.com/federicodanielabram/naciones)** — Idle/estrategia web, prototipo de mecánicas + segunda versión con Firebase.
 
 ## Stack
 
