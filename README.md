@@ -10,6 +10,10 @@ Construyo software para negocios reales: me meto en la operación hasta entender
 
 **[7cajas-web](https://github.com/federicodanielabram/7cajas-web)** — Sitio institucional de la misma empresa. HTML/CSS/JS sin framework, PWA, responsive mobile-first.
 
+## Proyectos personales
+
+**[delivery_game](https://github.com/federicodanielabram/delivery_game)** — Fuera del trabajo exploro motores de juego. Acción 2D cyberpunk en Godot 4, con combate, tráfico procedural y persecución de un dron. En desarrollo activo, no terminado.
+
 ## Stack
 
 JavaScript · React · Vite · Supabase · PostgreSQL · SQL · HTML/CSS · PWA · Godot · Unreal Engine · C#
