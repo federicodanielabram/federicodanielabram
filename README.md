@@ -8,7 +8,7 @@ Construyo software para negocios reales: me meto en la operación hasta entender
 
 **[logistica-7cajas](https://github.com/federicodanielabram/logistica-7cajas)** — Sistema de reparto para 7 Cajas Distribuidora. Panel web (React + Vite + Supabase Auth) y PWA para choferes (React + Vite + dnd-kit), con backend en Supabase (PostgreSQL + Realtime + RLS). Reemplazó la coordinación manual por WhatsApp y planillas en papel; en uso diario desde 2026.
 
-**[7cajas-web](https://github.com/federicodanielabram/7cajas-web)** — Sitio institucional de la misma empresa. HTML/CSS/JS sin framework, PWA, responsive mobile-first.
+**[7cajas-web](https://github.com/federicodanielabram/7cajas-web)** — Sitio institucional de la misma empresa, en producción en [7cajasdistribuidora.com](https://7cajasdistribuidora.com). HTML/CSS/JS sin framework, PWA, responsive mobile-first.
 
 ## Proyectos personales
 
