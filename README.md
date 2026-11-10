@@ -1,29 +1,29 @@
 # Federico Daniel Abram
 
-Forward Deployed Engineer · Desarrollo de software
+Forward Deployed Engineer · Software Development
 
-Construyo software para negocios reales: me meto en la operación hasta entender cómo trabajan de verdad, y después armo el sistema que lo resuelve de punta a punta — base de datos, backend y la interfaz que usa quien lo opera en el día a día.
+I build software for real businesses: I get into the operation until I understand how it actually works, then I design the system that solves it end to end — database, backend, and the interface the person who runs it day to day uses.
 
-## En producción
+## In production
 
-**[logistica-7cajas](https://github.com/federicodanielabram/logistica-7cajas)** — Sistema de reparto para 7 Cajas Distribuidora. Panel web (React + Vite + Supabase Auth) y PWA para choferes (React + Vite + dnd-kit), con backend en Supabase (PostgreSQL + Realtime + RLS). Reemplazó la coordinación manual por WhatsApp y planillas en papel; en uso diario desde 2026.
+**[logistica-7cajas](https://github.com/federicodanielabram/logistica-7cajas)** — Delivery system for 7 Cajas Distribuidora. Web panel (React + Vite + Supabase Auth) and driver PWA (React + Vite + dnd-kit), with a Supabase backend (PostgreSQL + Realtime + RLS). Replaced manual coordination over WhatsApp and paper spreadsheets; in daily use since 2026.
 
-**[7cajas-web](https://github.com/federicodanielabram/7cajas-web)** — Sitio institucional de la misma empresa, en producción en [7cajasdistribuidora.com](https://7cajasdistribuidora.com). HTML/CSS/JS sin framework, PWA, responsive mobile-first.
+**[7cajas-web](https://github.com/federicodanielabram/7cajas-web)** — Institutional website for the same company, in production at [7cajasdistribuidora.com](https://7cajasdistribuidora.com). Framework-free HTML/CSS/JS, PWA, mobile-first responsive.
 
-## Proyectos personales
+## Personal projects
 
-Fuera del trabajo exploro motores de juego. Tres proyectos en distintas etapas, ninguno terminado:
+Outside of work I explore game engines. Three projects at different stages, none finished:
 
-**[delivery_game](https://github.com/federicodanielabram/delivery_game)** — Acción 2D cyberpunk en Godot 4, con combate, tráfico procedural y persecución de un dron.
+**[delivery_game](https://github.com/federicodanielabram/delivery_game)** — 2D cyberpunk action game in Godot 4, with combat, procedural traffic, and a drone chase.
 
-**[MoonCowboy](https://github.com/federicodanielabram/MoonCowboy)** — Tercera persona en Unreal Engine 5, travesía en moto entre colonias lunares.
+**[MoonCowboy](https://github.com/federicodanielabram/MoonCowboy)** — Third-person Unreal Engine 5 game, a motorcycle journey between lunar colonies.
 
-**[naciones](https://github.com/federicodanielabram/naciones)** — Idle/estrategia web, prototipo de mecánicas + segunda versión con Firebase.
+**[naciones](https://github.com/federicodanielabram/naciones)** — Idle/strategy web game, mechanics prototype + second version with Firebase.
 
 ## Stack
 
 JavaScript · React · Vite · Supabase · PostgreSQL · SQL · HTML/CSS · PWA · Godot · Unreal Engine · C#
 
-## Contacto
+## Contact
 
 - Email: federicodanielabram@gmail.com
