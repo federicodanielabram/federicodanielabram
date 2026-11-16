@@ -27,3 +27,4 @@ JavaScript · React · Vite · Supabase · PostgreSQL · SQL · HTML/CSS · PWA 
 ## Contact
 
 - Email: federicodanielabram@gmail.com
+- LinkedIn: [linkedin.com/in/federico-daniel-abram-905b31449](https://www.linkedin.com/in/federico-daniel-abram-905b31449)
