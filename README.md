@@ -1,6 +1,6 @@
 # Federico Daniel Abram
 
-Forward Deployed Engineer · Software Development
+Software Engineer · Full Stack Developer (React, Supabase, PostgreSQL)
 
 I build software for real businesses: I get into the operation until I understand how it actually works, then I design the system that solves it end to end — database, backend, and the interface the person who runs it day to day uses.
 
